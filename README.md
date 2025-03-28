@@ -3,7 +3,7 @@ This is the CS128 Honors project in Rust. Our group is Sean Patel, Shrest Das, a
 
 **Goals and Objectives:** 
 
-  Implement the correct logic for incrementing the snake's length when it eats an apple 
+  &emsp; Implement the correct logic for incrementing the snake's length when it eats an apple 
   
   Implement the correct logic for the snake hitting the boundary or another snake (multiplayer)
   
