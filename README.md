@@ -1,7 +1,7 @@
 # CS128HonorsProject
 This is the CS128 Honors project in Rust. Our group is Sean Patel, Shrest Das, and Harsheet Bansal. We are attempting to build a multiplayer Snake game, with our preliminary target (Minimum Viable Product) being to create a single-player Snake game first.
 
-Goals and Objectives: 
+**Goals and Objectives:** 
 
   Implement the correct logic for incrementing the snake's length when it eats an apple 
   
@@ -19,7 +19,7 @@ Goals and Objectives:
   
   Different shades at each length of the snake to determine start, middle, and end of snake
   
-Technical Description:
+**Technical Description:**
 
   Create a data structure (linked list) to visualize and modify occupied spaces
   
@@ -33,15 +33,15 @@ Technical Description:
   
   The snake must be represented by a linked list with Nodes that represent the coordinates at which the snake is presently occupying
   
-Checkpoint Objectives:
+**Checkpoint Objectives:**
 
-  First Checkpoint: Build visualization to ensure smoother debugging
+  **First Checkpoint:** Build visualization to ensure smoother debugging
   
-  Second Checkpoint: Complete implementation of single player Snake game
+  **Second Checkpoint:** Complete implementation of single player Snake game
   
-  Final Deadline: Implement multi-functionality and game modes
+  **Final Deadline:** Implement multi-functionality and game modes
   
-Challenges:
+**Challenges:**
 
   Difficult to create visualizations
   
@@ -51,6 +51,6 @@ Challenges:
   
   Spawning apples in an open spot unoccupied by snake part
   
-References:
+**References:**
 
   Google Snake game and its various settings
