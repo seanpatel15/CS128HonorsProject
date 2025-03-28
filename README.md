@@ -13,7 +13,7 @@ This is the CS128 Honors project in Rust. Our group is Sean Patel, Shrest Das, a
   
   &emsp; - Implement a winning condition (all spaces occupied - single player; most apples - multiplayer when snakes crash)
   
-  &emsp; - Potential features: more than one apple, different snake speeds, different board size (be able to choose these settings as a way to adjust &emsp; difficulty)
+  &emsp; - Potential features: more than one apple, different snake speeds, different board size (be able to choose these settings as a way to &emsp; adjust difficulty)
   
   &emsp; - Create a visualization (UI) for the player to be able to see the board
   
@@ -45,7 +45,7 @@ This is the CS128 Honors project in Rust. Our group is Sean Patel, Shrest Das, a
 
   &emsp; - Difficult to create visualizations
   
-  &emsp; - Multiplayer: synchronizing processes and networking for two players to play at the same time but also ensuring that each player's movements are &emsp; independent and do not affect the other player's movement (each snake has control of its own movements)
+  &emsp; - Multiplayer: synchronizing processes and networking for two players to play at the same time but also ensuring that each player's &emsp; movements are independent and do not affect the other player's movement (each snake has control of its own movements)
   
   &emsp; - Making sure that all processes are fast. Our algorithm may be slow which can affect ease of playing
   
