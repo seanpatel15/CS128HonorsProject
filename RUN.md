@@ -1,0 +1,1 @@
+To have your own local multiplayer snake game, simply clone the repository via 'git clone', navigate to the directory where the Cargo.toml file is located, and run 'cargo run' in the terminal. Each Player wil have normal snake game functionality using the arrow keys and WASD keys, respectively. Enjoy!
